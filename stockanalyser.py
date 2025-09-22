@@ -1,4 +1,3 @@
-from flask import Flask, render_template, jsonify
 from datetime import datetime, timedelta
 import streamlit as st 
 import yfinance as yf
